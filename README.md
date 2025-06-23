@@ -1,8 +1,11 @@
-## Hi there 👋
-
-
+## KIM KIHYUN 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=KKH26261)](https://solved.ac/KKH26261/)
 
+# 💪Skills
+### Platforms & Languages
+![Python](https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badgeC-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![JavaScript](https://img.shields.io/badgeJavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 <!--
 **KKH0208/KKH0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
