@@ -3,9 +3,10 @@
 
 # 💪Skills
 ### Platforms & Languages
-![Python](https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C](https://img.shields.io/badgeC-#A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![JavaScript](https://img.shields.io/badgeJavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+
 <!--
 **KKH0208/KKH0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
